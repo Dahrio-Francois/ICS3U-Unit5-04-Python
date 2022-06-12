@@ -41,7 +41,7 @@ def main():
             )
         )
     except Exception:
-        print("\nThose were not valid integers, please input them correctly.")
+        print("\nThat was not a valid integer, please input them correctly.")
 
 
 if __name__ == "__main__":
