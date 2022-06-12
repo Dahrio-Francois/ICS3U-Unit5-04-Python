@@ -7,7 +7,7 @@
 
 
 def calculate_cylinder_volume(radius, height):
-    # this calcualtes the area
+    # this calculates the area
 
     import math
 
